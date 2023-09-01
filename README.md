@@ -69,7 +69,7 @@ You **must** use the Google Chrome developer tools during your HTML/CSS implemen
 ​
 Review the provided design file for the home page.
 ​
-* [ ] Build the HTML and CSS to create the missing header and footer sections.
+* [x] Build the HTML and CSS to create the missing header and footer sections.
 * [x] Link the h1 page title to the [index.html](index.html) page.
 * [x] Link the `Menu` navigation item to the [menu.html](menu.html) page.
 * [x] Create social media buttons on header for Facebook, Twitter, and Instagram with icons from [FontAwesome](https://fontawesome.com/search). *NOTE: * ENSURE that the icon name includes "facebook", "twitter", or "instagram" respectively.
@@ -85,8 +85,8 @@ Dark transparency: background-color: rgb(0, 4, 17, .8);
 ​
 Review the provided design files for the menu page.
 ​
-* [ ] Copy and paste your home page header and footer into the menu page.
-* [ ] Update the header image with the menu page image.
+* [x] Copy and paste your home page header and footer into the menu page.
+* [x] Update the header image with the menu page image.
 * [ ] Use the article element for the menu and a div inside of it; change the div's class to "menu-container"
 * [ ] Create a container for each section (e.g. drinks or entrees) with class "menu-section"
 * [ ] Create a container for each item (e.g. soda or burger) with class "menu-item"
